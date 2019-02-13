@@ -1,4 +1,4 @@
-Modpagespeed On
+# Modpagespeed On
 # Run Php without filename extension
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-d
