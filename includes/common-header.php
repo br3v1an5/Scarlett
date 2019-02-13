@@ -8,10 +8,6 @@
 Template V2.0 - OWL Internet
 Author      : JR Sarath | jrsarath.me | jrsarath@outlook.com
 LICENSE     : GNU GPL V3.0 (C) 2018 Jr Sarath
-Disclaimer	: Following website template was created by Jr Sarath for
-OWL internet, Only OWL Internet LLC is permitted to use this template.
-Other organizations or websites using this website template without
-author's permission is prohibitted.
 
 ##########################################################################
 #######################################################################-->
