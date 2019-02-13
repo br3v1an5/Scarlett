@@ -18,7 +18,7 @@ A open source modern template for webhosting purposes
    6. All css styles are defined under assets/css/style.css
    7. Template uses bootstrap 3 feel free to make it compatible with bootstrap 4
    
- Please feel free to create a PR to upload your mopifications.
- And if you like this then don't forget to give this repo a star.
- Issues section is open for suggestions and issues.
+ Please feel free to create a PR to upload your mopifications.<br>
+ And if you like this then don't forget to give this repo a star.<br>
+ Issues section is open for suggestions and issues.<br>
  Thank you
