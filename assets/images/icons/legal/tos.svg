@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#DDDDDD;}
+	.st1{fill:#F3F3F3;}
+	.st2{fill:#CED6E0;}
+	.st3{fill:#FFD15C;}
+</style>
+<path class="st0" d="M450.4,82.7L150.6,3.8c-10.5-3.2-21,3.2-24.2,13.7L24.3,403.6c-3.2,10.5,3.2,21,13.7,24.2l299.8,80
+	c10.5,3.2,21-3.2,24.2-13.7L464.1,108C467.3,96.4,461,85.9,450.4,82.7z"/>
+<path class="st1" d="M399.9,35.4H190.6l-121,122v297.7c0,10.5,8.4,20,20,20h310.4c10.5,0,20-8.4,20-20V55.4
+	C418.9,44.8,410.5,35.4,399.9,35.4z"/>
+<g>
+	<rect x="118" y="398.4" class="st2" width="251.5" height="27.4"/>
+	<rect x="118" y="326.8" class="st2" width="251.5" height="27.4"/>
+	<rect x="118" y="255.3" class="st2" width="251.5" height="27.4"/>
+	<rect x="118" y="184.8" class="st2" width="251.5" height="27.4"/>
+	<rect x="227.4" y="113.2" class="st2" width="142" height="27.4"/>
+</g>
+<polygon class="st3" points="190.6,35.4 69.6,157.4 190.6,157.4 "/>
+</svg>
