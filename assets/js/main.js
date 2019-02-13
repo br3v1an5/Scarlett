@@ -1,15 +1,9 @@
 /*########################################################################
-##########################################################################
 
 main.js v2.0 - OWL Internet
 Author      : JR Sarath | jrsarath.me | jrsarath@outlook.com
 LICENSE     : GNU GPL V3.0 (C) 2018 Jr Sarath
-Disclaimer	: Following website template(main.js) was created by Jr Sarath for
-OWL internet, Only OWL Internet LLC is permitted to use this template.
-Other organizations or websites using this website template without
-author's permission is prohibitted.
 
-##########################################################################
 ########################################################################*/
 !function(a){a.fn.slickAnimation=function(){function n(a,n,t,i,o){o="undefined"!=typeof o?o:!1,1==n.opacity?(a.addClass(t),a.addClass(i)):(a.removeClass(t),a.removeClass(i)),o&&a.css(n)}function t(a,n){return a?1e3*a+1e3:n?1e3*n:a||n?1e3*a+1e3*n:1e3}function i(a,n,t){var i=["animation-"+n,"-webkit-animation-"+n,"-moz-animation-"+n,"-o-animation-"+n,"-ms-animation-"+n],o={}
 i.forEach(function(a){o[a]=t+"s"}),a.css(o)}var o=a(this),e=o.find(".slick-list .slick-track > div"),s=o.find('[data-slick-index="0"]'),r="animated",c={opacity:"1"},d={opacity:"0"}
