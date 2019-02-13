@@ -3,7 +3,7 @@
 	<div class="pre-nav">
 			<div class="container">
 						<div class="row">
-							<a class="email-link" href="mailto:contact@owlinternet.com"><i class="fas fa-envelope"></i><span class="hide-small">contact@owlinternet.com</span></a>
+							<a class="email-link" href="mailto:#"><i class="fas fa-envelope"></i><span class="hide-small">contact@domain.com</span></a>
 							<div class="pull-right">
 									<!--select class="select-language" data-width="fit" data-live-search="false">
 									    <option data-tokens="English" data-content='<span class="flag-icon flag-icon-us"></span> EN' value="EN">English</option>
@@ -17,7 +17,7 @@
 									</select-->
 									<a class="email-link hide-small" href="support"><i class="fas fa-question"></i><span>Support</span></a>
 									<a class="email-link" href="javascript:void(Tawk_API.toggle())"><i class="fas fa-comments"></i><span>Live Chat</span></a>
-									<a class="email-link hide-small" href="https://my.owlinternet.com/clientarea.php"><i class="fas fa-user"></i><span>Account</span></a>
+									<a class="email-link hide-small" href="#"><i class="fas fa-user"></i><span>Account</span></a>
 						</div>
 						</div>
 			</div>
@@ -117,10 +117,10 @@
 				<div class="hidden menu-support-footer">
 						<div class="row">
 							<div class="col-xs-4">
-								<a href="mailto:contact@owlinternet.com"><i class="fas fa-envelope"></i></a>
+								<a href="mailto:#"><i class="fas fa-envelope"></i></a>
 							</div>
 							<div class="col-xs-4">
-								<a href="https://my.owlinternet.com/clientarea.php"><i class="fas fa-user"></i></a>
+								<a href="#"><i class="fas fa-user"></i></a>
 							</div>
 							<div class="col-xs-4">
 								<a href="support"><i class="fas fa-question"></i></a>

@@ -12,7 +12,7 @@
 					<div>
 						<h3><b>Join Our Newsletter</b></h3>
 						<h4>We'll send you news and offers.</h4>
-						<form class="newsletter-form" action="https://promotions.owlinternet.com/?p=subscribe&amp;id=1" name="subscribeform" method="post" target="windowName" onsubmit="window.open('', this.target,
+						<form class="newsletter-form" action="#" name="subscribeform" method="post" target="windowName" onsubmit="window.open('', this.target,
 								'dialog,modal,scrollbars=no,resizable=no,width=800,height=500,left=0,top=0');">
 								<input class="form-control newsletter-email" type="email" value="" name="email" id="email" placeholder="Your email address" required="">
 								<input class="form-control" type="hidden" name="list[2]" value="signup">
@@ -22,13 +22,11 @@
 						</form>
 					</div>
 					<ul class="footer-social" itemscope itemtype="http://schema.org/Organization">
-						<link itemprop="url" href="https://owlinternet.com">
-						<li class="facebook"><a itemprop="sameAs"  href="https://facebook.com/owlinternet" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-						<li class="twitter"><a itemprop="sameAs"  href="https://twitter.com/@owl_internet" target="_blank"><i class="fab fa-twitter"></i></a></li>
-						<li class="youtube"><a itemprop="sameAs"  href="https://www.youtube.com/channel/UC167pUzt2k0mvGFYdXTUOBg" target="_blank"><i class="fab fa-youtube"></i></a></li>
-						<li class="linkedin"><a itemprop="sameAs"  href="https://www.linkedin.com/in/owl-internet" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-						<!--li class="mail"><a itemprop="sameAs"  href="mailto:contact@owlinternet.com" target="_blank"><i class="far fa-envelope"></i></a></li-->
-						<!--li class="instagram"><a href="https://instagram.com/owl.internet" target="_blank"><i class="fab fa-instagram"></i></a></li-->
+						<link itemprop="url" href="#">
+						<li class="facebook"><a itemprop="sameAs"  href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+						<li class="twitter"><a itemprop="sameAs"  href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
+						<li class="youtube"><a itemprop="sameAs"  href="#" target="_blank"><i class="fab fa-youtube"></i></a></li>
+						<li class="linkedin"><a itemprop="sameAs"  href="#" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
 					</ul>
 				</div>
 				<div class="col-md-7 col-sm-6">
@@ -52,7 +50,7 @@
               <ul class="service">
     						<h3>Security</h3>
     						<li><a href="#">SSL Certificates</a></li>
-                <li><a href="#">Sitelock</a></li>
+							<li><a href="#">Sitelock</a></li>
     						<li><a href="#">CodeGuard</a></li>
     					</ul>
               <ul class="service">
@@ -61,7 +59,7 @@
                 <li><a href="#">DNS Check</a></li>
     						<li><a href="#">Sitemap</a></li>
                 <li><a href="#">Testimonials</a></li>
-    						<li><a href="#">OWL Internet Blog</a></li>
+    						<li><a href="#">Blog</a></li>
     					</ul>
             </div>
             <div class="col-md-4 col-xs-12">
