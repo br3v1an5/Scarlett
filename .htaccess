@@ -1,0 +1,22 @@
+# Modpagespeed On
+# Run Php without filename extension
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
+RewriteRule ^home$ index.php [L]
+
+# Return home for Index
+RewriteCond %{THE_REQUEST} "index"
+RewriteRule .* 404.php
+
+# Return 404 if original request is .php
+RewriteCond %{THE_REQUEST} "^[^ ]* .*?\.php[? ].*$"
+RewriteRule .* 404.php
+
+
+# error documents
+ErrorDocument 404     /404.php
+ErrorDocument 401     /401.php
+ErrorDocument 403     /403.php
+ErrorDocument 500     /500.php
